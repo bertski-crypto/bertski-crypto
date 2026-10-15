@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./profile-banner.gif" width="100%" alt="BER TSKI IT Developer Profile Banner" />
+</div>
+
 ## Hi there 👋
 
 <!--
